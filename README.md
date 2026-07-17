@@ -1,2 +1,2 @@
-# campusly
-student campus copilot
+# attendly
+smart attendance manager

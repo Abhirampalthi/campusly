@@ -1,0 +1,10 @@
+{
+  "name": "Campusly",
+  "description": "Smart attendance manager for college students with location verification, bunk calculations, and playful Gen-Z AI feedback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
